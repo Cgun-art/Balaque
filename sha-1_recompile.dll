@@ -6,3 +6,5 @@ PrintNewSha1="true"
 ErrorBoundary="true"
 
 BlockAllPeopleExpectYourComputerBeforeAndAfterCompiling="true"
+
+RemoveBlock1AfterFullSha1Compile="true"
