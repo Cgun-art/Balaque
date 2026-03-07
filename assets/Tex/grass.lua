@@ -11,3 +11,7 @@ if --compile true:
 
 [C++]
 [GDK]
+
+createTex="size="512, 512"; Alb="true", fill=color="green";
+
+print("Oof, i made an simple grass texture.")
