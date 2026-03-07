@@ -3,3 +3,6 @@
 keep_same="true"
 PrintNewSha1="true"
 
+ErrorBoundary="true"
+
+BlockAllPeopleExpectYourComputerBeforeAndAfterCompiling="true"
