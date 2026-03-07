@@ -7,4 +7,7 @@ local /contents/internet/connect="true"/http/find/website_all/contents/file/cont
 
 local /GAMEID/
 
-if --compile true
+if --compile true:
+
+[C++]
+[GDK]
