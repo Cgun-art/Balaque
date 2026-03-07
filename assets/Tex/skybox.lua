@@ -15,7 +15,7 @@ if compile-- true:
 [C++]
 [GDK]
 
-create-- object:mesh(cube.8.4.12) Tex=(512x512; color=fill=blue255), NRM=false, Albedo=true, recompile-sha1::true, recompile-sha::true
+create-- object:mesh(cube.8.4.12) Tex=(512x512; color=fill=blue), NRM=false, Albedo=true, recompile-sha1::true, recompile-sha::true
 
      end
 
